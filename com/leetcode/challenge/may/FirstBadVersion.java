@@ -1,4 +1,4 @@
-package com.leetcode.may;
+package com.leetcode.challenge.may;
 
 /*
 * You are a product manager and currently leading a team to develop a new product.
