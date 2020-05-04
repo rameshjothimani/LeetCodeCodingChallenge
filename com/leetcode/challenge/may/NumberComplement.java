@@ -26,6 +26,15 @@ package com.leetcode.challenge.may;
 public class NumberComplement {
     public int findComplement(int num) {
         //Find the number of bits & make an XOR of input --- 2^bitcount-1
+        //E.g:
+        /*
+        * 5 = 0 0 0 0 0 1 0 1
+        * 1 << 3 = 1 0 0 0
+        * 1 << 3 - 1 = 0 1 1 1
+        *
+        * 0101 ^ 0111 = 0010
+        *
+        * */
         return (((1 << Integer.toBinaryString(num).length()) - 1) ^ num);
     }
 
