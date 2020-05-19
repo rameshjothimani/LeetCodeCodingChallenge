@@ -1,4 +1,4 @@
-package com.leetcode.challenge.may;
+package com.leetcode.challenge.may.binarytree;
 
 public class TreeNode {
     int val;
