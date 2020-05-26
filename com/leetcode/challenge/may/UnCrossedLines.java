@@ -29,7 +29,7 @@ package com.leetcode.challenge.may;
 public class UnCrossedLines {
 
     public int maxUncrossedLines(int[] A, int[] B) {
-        if(A.length==0||B.length==0){
+        if (A.length == 0 || B.length == 0) {
             return 0;
         }
 
