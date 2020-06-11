@@ -31,3 +31,5 @@ Day 6 : https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 Day 7 : https://leetcode.com/problems/shuffle-the-array/
 
 Day 8 : https://leetcode.com/problems/valid-parentheses/
+
+Day 9 : https://leetcode.com/problems/binary-tree-level-order-traversal/
