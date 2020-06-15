@@ -33,3 +33,8 @@ Day 7 : https://leetcode.com/problems/shuffle-the-array/
 Day 8 : https://leetcode.com/problems/valid-parentheses/
 
 Day 9 : https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+Day 10 : https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+Day 11 : https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
