@@ -38,3 +38,5 @@ Day 10 : https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
 Day 11 : https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
+Day 12 : https://leetcode.com/problems/balanced-binary-tree/
+
