@@ -1,4 +1,4 @@
-package com.mare.fleet.binarytree;
+package com.leetcode.challenge.general.binarytree;
 
 /*
 * https://leetcode.com/problems/same-tree/
