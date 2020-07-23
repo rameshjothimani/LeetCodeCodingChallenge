@@ -47,3 +47,5 @@ Day 14 : https://leetcode.com/problems/symmetric-tree/
 Day 15 : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 
 Day 16 : https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ 
+
+Day 17 : https://leetcode.com/problems/search-in-a-binary-search-tree/
