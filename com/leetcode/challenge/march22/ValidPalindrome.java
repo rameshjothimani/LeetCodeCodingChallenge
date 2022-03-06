@@ -1,7 +1,5 @@
 package com.leetcode.challenge.march22;
 
-import java.lang.ref.SoftReference;
-
 /*
 * Valid Palindrome
 * https://leetcode.com/problems/valid-palindrome/
